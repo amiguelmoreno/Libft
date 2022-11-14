@@ -83,21 +83,8 @@ For detailed information and comments, refer to the [**subject of this project**
 
 ## 🛠️ Testing
 
-### Makefile and re-link
+Here you all the thard party tester that you can use. Personally, I prefer to use francinette tester but it is totally up to you.
 
-Mandatory part
-```shell
-git clone https://github.com/pvaladares/42cursus-00-Libft.git && cd 42cursus-00-Libft && make
-```
-Typing again `make` should show the following message:
-> make: `libft.a' is up to date.
-Mandatory part + bonus
-```shell
-make bonus
-```
-Typing again `make bonus` should show the following message:
-> make[1]: `libft.a' is up to date.
-### Third-party testers
 * [y3ll0w42 / libft-war-machine](https://github.com/y3ll0w42/libft-war-machine)
 * [Tripouille / libftTester](https://github.com/Tripouille/libftTester)
 * [alelievr / libft-unit-test](https://github.com/alelievr/libft-unit-test)
