@@ -103,3 +103,8 @@ Typing again `make bonus` should show the following message:
 * [alelievr / libft-unit-test](https://github.com/alelievr/libft-unit-test)
 * [jtoty / Libftest](https://github.com/jtoty/Libftest)
 * [xicodomingues / francinette](https://github.com/xicodomingues/francinette)
+
+<br />
+<p align="center">
+	Thanks to Pedro Valadares for letting me use his README file, click <a href="https://github.com/pvaladares"><b>here</b></a> to see his profile.
+</p>
