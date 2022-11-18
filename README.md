@@ -4,6 +4,8 @@
 
 <p align="center">
 	<b><i>Development repo for 42-Malaga Libft project</i></b><br>
+</p>	
+<p align="center">
 	For further information about 42 Malaga and its projects, please refer to <a href="https://github.com/amiguelmoreno/42-Malaga"><b>42 Malaga repo</b></a>.
 </p>
 
