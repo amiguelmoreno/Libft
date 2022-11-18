@@ -1,5 +1,5 @@
 <h1 align="center">
-	Libft
+	📚 Libft
 </h1>
 
 <p align="center">
