@@ -6,7 +6,7 @@
 #    By: antmoren <antmoren@student.42malaga.com    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/04/22 10:11:34 by antmoren          #+#    #+#              #
-#    Updated: 2022/12/14 13:58:45 by antmoren         ###   ########.fr        #
+#    Updated: 2022/12/14 14:03:23 by antmoren         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -108,9 +108,12 @@ fclean: clean
 
 # Clean object files (*.o) and the binary file; 
 re: fclean all
+	@echo "\n 🔄  ✅ Cleaned and rebuilt everything for libft"
 
 bonus	:	$(OBJS_BONUS)
 			@make OBJS_MAND="$(OBJS_MAND) $(OBJS_BONUS)" $(NAME)
+			@echo "\n 📚  ✅ Libft BONUS compiled!"
+
 
 .PHONY:	all bonus clean fclean re
 
