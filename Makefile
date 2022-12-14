@@ -6,7 +6,7 @@
 #    By: antmoren <antmoren@student.42malaga.com    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/04/22 10:11:34 by antmoren          #+#    #+#              #
-#    Updated: 2022/12/14 13:52:31 by antmoren         ###   ########.fr        #
+#    Updated: 2022/12/14 13:58:45 by antmoren         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -103,7 +103,7 @@ clean:
 # Clean all the output files (*.o) and the library file
 fclean: clean
 	@${RM} ${NAME}
-	@echo "\n 🗑️  ✅ All libft files removed!"
+	@echo "\n 🗑️  ✅ All libft generated files removed!"
 
 
 # Clean object files (*.o) and the binary file; 
